@@ -255,3 +255,15 @@ You can deploy the Flask web version using:
 * [Matplotlib](https://matplotlib.org/) — visualization and result plotting
 * [ThisPersonDoesNotExist.com](https://thispersondoesnotexist.com/) — for testing fake images
 
+## Original Image
+
+<img width="509" height="632" alt="Screenshot_2025-01-05_220234" src="https://github.com/user-attachments/assets/051a2303-c52f-4d96-9fc6-a6ae4a8f14a9" />
+
+
+## Deep fake image 
+
+<img width="506" height="631" alt="Screenshot_2025-01-05_220240" src="https://github.com/user-attachments/assets/ea1deb48-29d3-4047-9bc1-70eccc49221c" />
+
+
+
+
